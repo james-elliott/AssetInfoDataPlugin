@@ -1,6 +1,6 @@
 {
   "name": "AssetInfo",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "description": "Helps generate asset data",
   "engines": {
     "sketch": ">=3.0"
@@ -9,7 +9,6 @@
     "name": "AssetInfo",
     "manifest": "src/manifest.json",
     "main": "assetinfo.sketchplugin",
-    "repository": "https://github.com/james-elliott/sketchdataplugins.git",
     "assets": [
       "assets/**/*"
     ]
