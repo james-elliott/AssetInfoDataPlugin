@@ -11,7 +11,11 @@
     "main": "assetinfo.sketchplugin",
     "assets": [
       "assets/**/*"
-    ]
+    ],
+    "repository" : {
+      "type": "git",
+      "url": "git+https://github.com/james-elliott/AssetInfoDataPlugin.git"
+    }
   },
   "scripts": {
     "build": "skpm-build",
